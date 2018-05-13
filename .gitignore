@@ -1,0 +1,6 @@
+# exclude large geopstial data #
+data/out
+tmp
+work
+processing
+
